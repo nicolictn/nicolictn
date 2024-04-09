@@ -9,7 +9,7 @@ Hey! I'm Nicoli Caetano, 19yo. Let's connect!
 
 ### About me
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js** 
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, Java** 
   
 - 😄 Pronouns: **She/Her**
 
