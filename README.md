@@ -2,10 +2,6 @@
 E aí! Sou Nicoli Caetano, tenho 19 anos.
 <img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/>
 </h1>
-<p align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Front-end+Developer+%3C3">
-</p>
 
 - 🌱 Atualmente estou aprendendo **JavaScript, Node.js, Java** 
 
