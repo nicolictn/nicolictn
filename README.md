@@ -4,7 +4,8 @@ E aí! Sou Nicoli Caetano, tenho 19 anos.
 </h1>
 
 <br>
-- 🌱 Atualmente estou aprendendo **JavaScript, Node.js, Java** 
+
+- 🌱 Atualmente estou aprendendo **JavaScript, Node.js, Java**
 
 <br>
                                           
