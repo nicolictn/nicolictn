@@ -3,15 +3,15 @@ E aí. Sou a Nicoli Caetano!
 <img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/>
 </h1>
 
-##Tenho 19 anos, moro em SP e sou graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro. Meu objetivo profissional é atuar na área de desenvolvimento mobile e adquirir conhecimento em ReactNative e IA.
+<p>Tenho 19 anos, moro em SP e sou graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro. Meu objetivo profissional é atuar na área de desenvolvimento mobile e adquirir conhecimento em ReactNative e IA.</p>
 
 <br>
-##Ferramentas e Tecnologias:
+#Ferramentas e Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
           
 
-##Estou aprendendo: 
+#Estou aprendendo: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/>
 
@@ -23,7 +23,7 @@ E aí. Sou a Nicoli Caetano!
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolictn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<h3>Me contate:</h3>
+<h1 align="center">Me contate:</h1>
                                           
 <div align="center">
   <a href = "mailto:nicolictn@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
