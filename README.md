@@ -6,12 +6,12 @@ E aí. Sou a Nicoli Caetano!
 <p>Tenho 19 anos, moro em SP e sou graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro. Meu objetivo profissional é atuar na área de desenvolvimento mobile e adquirir conhecimento em ReactNative e IA.</p>
 
 <br>
-#Ferramentas e Tecnologias:
+<h2>Ferramentas e Tecnologias:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
           
 
-#Estou aprendendo: 
+<h2>Estou aprendendo: </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/>
 
