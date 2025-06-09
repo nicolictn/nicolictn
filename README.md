@@ -3,7 +3,7 @@ E aí. Sou a Nicoli Caetano!
 <img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/>
 </h1>
 
-<p>Tenho 19 anos, moro em SP e sou graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro. Meu objetivo profissional é atuar na área de desenvolvimento mobile com IA.</p>
+<p>Sou desenvolvedora front-end e graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro.</p>
 
 <br>
 <h2>Ferramentas e Tecnologias:</h2>
