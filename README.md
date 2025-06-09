@@ -9,6 +9,7 @@ E aí. Sou a Nicoli Caetano!
 <h2>Ferramentas e Tecnologias:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
+[(https://skillicons.dev/icons?i=js,html,css,angular,linux,eclipse,figma,git,github,idea,java,mysql,nodejs,react,ts,vscode)](https://skillicons.dev)
           
 
 <h2>Estou aprendendo: </h2>
