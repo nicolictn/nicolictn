@@ -2,6 +2,7 @@
 
 <p align="left"> 
   Sou desenvolvedora front-end e graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro.<br>
+  Atualmente sou estagiária em TI no CAS e busco minha primeira experiência profissional como dev front-end.
 </p>
 
 <p align="left">
@@ -21,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<br>
+<br><br><br><br><br><br><br><br>
 <h2>Ferramentas e Tecnologias:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,linux,eclipse,figma,git,github,idea,java,mysql,nodejs,react,ts,vscode)](https://skillicons.dev)
