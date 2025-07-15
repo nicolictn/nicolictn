@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Sou desenvolvedora front-end e graduanda em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac - Santo Amaro.<br>
-  Atualmente sou estagiária em TI no CAS e busco minha primeira experiência profissional como dev front-end.
+  Atualmente sou estagiária no Santander e busco minha primeira experiência profissional como dev front-end.
 </p>
 
 <p align="left">
